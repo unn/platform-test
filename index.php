@@ -1,3 +1,3 @@
 <?php
 
-print '<h1>Hey!</h1>';
+print '<h1>Hey! Here's an update.</h1>';
