@@ -1,3 +1,3 @@
 <?php
 
-print '<h1>Hey getenv('name');!</h1>';
+print '<h1>Hey ' . getenv('name'); . '!</h1>';
